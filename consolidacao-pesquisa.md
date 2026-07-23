@@ -2,7 +2,7 @@
 
 **Documento interno de trabalho — Luzativo · Julho de 2026**
 
-Cruzamento das duas rodadas de pesquisa aprofundada (Perplexity e Gemini) rodadas com os mesmos prompts. Cobre as quatro frentes com dupla fonte (P1 mercado, P2 percepção, P3 tecidos, P4 comunicação). Faltam a triangulação de **P5 (Pointer)** — só temos Perplexity — e **P6 (posicionamento social)** — nenhum motor entregou ainda.
+Cruzamento das duas rodadas de pesquisa aprofundada (Perplexity e Gemini) rodadas com os mesmos prompts. Cobre as seis frentes: P1 mercado, P2 percepção, P3 tecidos, P4 comunicação (dupla fonte), **P5 Pointer/identidade** e **P6 posicionamento social** (agora com o retorno do Gemini, triangulados abaixo).
 
 **Legenda de status de cada achado:**
 - ✅ **Confirmado** — os dois motores concordam. Base sólida para decisão.
@@ -102,6 +102,39 @@ Convergência fortíssima; o Gemini é mais disciplinado e regulatoriamente mais
 
 ---
 
+## P5 — Pointer e identidade visual
+
+### O risco do símbolo-cão ⚖️ Divergente (resolvido) — a favor da viabilidade
+
+- **Perplexity:** símbolo central é viável, mas exige disciplina; recomenda testar com o público antes de comprometer a identidade a ele.
+- **Gemini:** vai além e **derruba a objeção "cão = pet/country"** ao trazer o precedente de mercado — **Rodd & Gunn** usa justamente o **English Pointer** como emblema de uma marca de vestuário masculino premium. Ou seja, o território já foi provado como premium, não é proibido.
+- **Reconciliação:** o Caminho 1 (Pointer como símbolo central) é **viável e de-riscado** — não é aposta cega, tem precedente. O que separa acerto de erro é a execução gráfica, não a escolha do animal.
+
+### Guarda-corpos gráficos (se Caminho 1) ✅ Convergente
+
+Símbolo **abstrato/estilizado, monocromático** (silhueta ou emblema geométrico — lógica de emblema automotivo, não ilustração realista de cachorro); estética **stealth/atlética**; avaliar **monograma J+W** como rota alternativa/complementar; **evitar registro caça/pet** (cena de caça, textura rústica). A história do afeto vira camada de significado, não literalidade visual.
+
+### ⚠️ Conflito a resolver — paleta
+
+A pesquisa recomenda **evitar o marrom** (puxa para caça/rústico); o Guia de Visão de Marca listava **"marrom liver"** (cor típica do Pointer). Contradição real, não resolvível pela hierarquia de fontes — **sinalizada** no Documento de Marca (seção 10) para decisão consciente na identidade visual: assumir o marrom como elo afetivo *ou* trocar por neutros "performance silenciosa".
+
+---
+
+## P6 — Posicionamento social (apoio LGBTQIA+ e minorias)
+
+Frente de **gestão de risco de marca**. Rodada apenas no Gemini (Perplexity não entregou); leitura de fonte única, tratada como direção, não como consenso.
+
+### Direção: inclusão implícita, não ativismo declarativo 🌫️→◆
+
+- **Recomendação central:** posicionar-se pela **inclusão implícita e coerente** — "o treino como equalizador", representatividade no **casting** (idades, tons de pele, tipos de corpo), sem transformar identidade em tema de campanha nem em oportunismo de data. Alinhado ao "quiet fitness" e ao princípio de linguagem "substantivo concreto, não adjetivo" da P4.
+- **Convicção dos fundadores permanece pessoal** — a marca não vira veículo partidário; reduz risco de backlash e de instrumentalização.
+- **Apoio material só com base** — doação/patrocínio/campanha dedicada fazem sentido **depois** da marca estruturada (horizonte 2–3 anos), para que o gesto seja real e não performático.
+- **Intensidade final (mais discreta × mais explícita)** segue como **decisão dos fundadores** — é o único ponto verdadeiramente em aberto do tema.
+
+> Cautela metodológica: P6 é fonte única (só Gemini). A direção é sólida e conservadora (baixo risco), mas não tem a validação cruzada das demais frentes. Entra no doc como proposta ◆, com a intensidade marcada ⚠️.
+
+---
+
 ## Achados transversais (o quadro grande)
 
 1. **O fosso da JAM não é a modelagem-claim nem produção/preço.** Categorias vizinhas já dizem "valoriza seu shape"; Army/Mith/Insano têm escala e custo. O fosso defensável é **marca (honestidade + quiet fitness + Círculo 2) + modelagem provada e nomeada + selo SC**. A triangulação endurece o afiamento das rodadas anteriores.
@@ -118,8 +151,8 @@ Convergência fortíssima; o Gemini é mais disciplinado e regulatoriamente mais
 
 | Item | Estado | Base |
 |------|--------|------|
-| #1 Peso dos Pointers | ⏳ Aguarda P5 do Gemini | Só Perplexity (símbolo central disciplinado, testar com público) |
-| #2 Posicionamento social LGBTQIA+ | ⏳ Sem pesquisa | P6 não rodada em nenhum motor |
+| #1 Peso dos Pointers | ✅ Caminho 1 **de-riscado** (precedente Rodd & Gunn) + guarda-corpos gráficos; ⚠️ conflito de paleta a decidir | P5 (triangulado) |
+| #2 Posicionamento social LGBTQIA+ | ◆ **Inclusão implícita**; ⚠️ intensidade a decidir | P6 (só Gemini) |
 | #3 Preço "premium acessível" | ✅ **R$99–119** (a confirmar contra custo) | P1 (ambos) |
 | #4 Concorrentes diretos | ✅ **Army, Mith, Bulking, Thunder** (monitorar Insano) | P1 (triangulado) |
 | #6 Nome próprio da modelagem | 🔺 Reforçado como necessidade competitiva | P2 (ambos) |
@@ -130,11 +163,12 @@ Convergência fortíssima; o Gemini é mais disciplinado e regulatoriamente mais
 
 ---
 
-## O que ainda falta antes da incorporação final ao Documento de Marca
+## O que ainda falta — agora, decisões, não pesquisa
 
-1. **P5 (Pointer) do Gemini** — para triangular a decisão do símbolo (item #1).
-2. **P6 (posicionamento social)** — não rodada; decidir se roda (Perplexity ou Gemini).
-3. **Decisões dos fundadores:** tecido (poliéster sim/não; avaliar poliamida) via fornecedor + *wear test*; e a confirmação de que R$99–119 fecha a margem.
-4. **Pesquisa primária com o público** (a pós-compra do 1º lote + entrevistas) para os pontos 🌫️: dimensionar o Círculo 2, medir disposição a pagar pelo corte, e testar a copy antiaspiracional.
+As seis frentes estão trianguladas e **incorporadas ao Documento de Marca v4.0**. O que resta não é mais pesquisa, e sim decisão do cliente e dado primário:
 
-**Próximo passo:** ao chegar P5/P6 do Gemini, faço a incorporação única ao Documento de Marca — fechando preço, concorrentes, tecido, camiseta, selo SC e os refinamentos de posicionamento/voz, cada um marcado por nível de confiança.
+1. **Decisões dos fundadores:** tecido (poliéster sim/não; avaliar poliamida) via fornecedor de Brusque + *wear test*; confirmação de que R$ 99–119 fecha a margem; intensidade do posicionamento social; peso dos Pointers e resolução do conflito de paleta; validação da elevação do Círculo 2 a foco primário; inclusão da camiseta de inverno no próximo lote.
+2. **Pesquisa primária com o público** (a pós-compra do 1º lote + entrevistas) para os pontos 🌫️: dimensionar o Círculo 2, medir disposição a pagar pelo corte, testar a copy antiaspiracional e resolver o trade-off de secagem do tecido.
+3. **P6 é fonte única** (só Gemini) — se o cliente quiser mais robustez no tema social antes de agir, vale uma segunda rodada; por ora a direção conservadora (inclusão implícita) é de baixo risco.
+
+**Estado:** a incorporação única ao Documento de Marca está feita (v4.0) — preço, concorrentes, tecido, camiseta, selo SC, Pointer, social, Círculo 2 e refinamentos de voz entraram marcados por nível de confiança. A próxima etapa é a **reunião de validação com Jener e Jeans** sobre os itens ◆/⚠️ da seção 12.

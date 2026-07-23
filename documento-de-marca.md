@@ -1,9 +1,11 @@
 # JAM WEAR — Documento de Marca
 
 **Plataforma estratégica de branding**
-Luzativo Estratégia e Comunicação · Versão 3.2 — Julho de 2026
+Luzativo Estratégia e Comunicação · Versão 4.0 — Julho de 2026
 
 *(Versão de trabalho em Google Docs com marcações por cores: verde = o que a marca é/faz · vermelho = o que não é/não faz · amarelo = destaque ou ponto em definição.)*
+
+**Marcadores de status usados neste documento:** ✅ definido · ◆ proposta (direção sustentada por pesquisa, a confirmar com o cliente) · ⚠️ pendente (depende de decisão ou dado) · ➤ para comentar. As direções marcadas com ◆ nesta versão nasceram do cruzamento de duas rodadas de pesquisa aprofundada (Perplexity × Gemini) e entram como recomendação, não como decisão fechada.
 
 ---
 
@@ -20,6 +22,8 @@ Luzativo Estratégia e Comunicação · Versão 3.2 — Julho de 2026
 | Público central | Homens que já treinam com constância e percebem qualidade de modelagem, tecido e caimento. |
 | Personalidade | Próxima, masculina, urbana, confiante e elegante. Premium, mas alcançável. |
 | Tom de voz | Curto, emocional e direto — sem prometer o que a peça não entrega. |
+| Faixa de preço | ◆ Premium acessível — direção de R$ 99 a R$ 119 (a confirmar contra o custo real de produção). |
+| Origem | ◆ Produção em Santa Catarina — ativo de qualidade a comunicar. |
 | Rota de crescimento | Florianópolis → Santa Catarina → Região Sul, com vendas no site oficial (jam-wear.com) e revisão semestral de dados. |
 | Símbolo | Pointer Inglês — peso na marca em definição (seção 10). |
 
@@ -84,19 +88,42 @@ A cada seis meses, os dados de vendas, marketing e desempenho serão analisados 
 
 **A JAM WEAR cresce pelo que significa e pelo que entrega.** O posicionamento não se sustenta em estética bonita nem em comunicação motivacional: ele se sustenta em atributos concretos do produto — qualidade da peça, qualidade dos tecidos, modelagem bem desenvolvida, conforto, caimento — e na coerência absoluta entre o discurso da marca e a experiência de vestir a peça.
 
-**A ideia que a marca quer possuir na mente do público:** modelagem própria — vivida na promessa "a regata certa". É o único território que nasce de uma dor específica, é verificável na prova da peça e não depende de discurso para ser percebido.
+**A ideia que a marca quer possuir na mente do público:** modelagem própria — vivida na promessa "a regata certa". É o território que nasce de uma dor específica, é verificável na prova da peça e não depende de discurso para ser percebido.
 
 **Declaração de posicionamento**
 
 > Para homens que treinam com constância — construindo ou mantendo o próprio corpo —, a JAM WEAR é a marca brasileira de regatas masculinas com modelagem própria: valoriza ombros e peito, dá liberdade à cintura e veste bem da academia à cidade, com qualidade real de tecido e caimento, numa estética urbana premium e acessível. A JAM WEAR não promete o corpo: acompanha, com conforto e dignidade, o corpo que cada um construiu e segue construindo.
 
+**O território competitivo — onde está o fosso da marca** ◆
+
+A pesquisa de mercado ajusta a leitura da concorrência e mostra onde a JAM realmente se defende:
+
+- **A modelagem, sozinha, não é mais um território vazio.** Marcas vizinhas já usam o discurso genérico "valoriza o seu shape". O que a JAM defende não é o *claim*, e sim a combinação difícil de copiar: **marca (honestidade + estética de "performance silenciosa" + o homem comum como centro) + modelagem realmente provada e batizada com nome próprio + origem em Santa Catarina.**
+- **Existe um incumbente a superar:** uma marca premium do próprio segmento (referência de mercado: **Army**) já executa o minimalismo de "performance silenciosa" com tecido nobre e modelagem limpa, na faixa de topo (~R$ 139+). O ângulo que ela não ocupa — e que a JAM pode ocupar — é a **honestidade explícita**, o **homem inseguro/comum como centro**, uma **história própria** (o Pointer, se confirmado) e um preço **20–30% abaixo** dos líderes.
+- **A concorrência premium está no Sul** (SC e PR) — exatamente a rota de expansão da marca. Isso reforça a disciplina de dominar Florianópolis e SC antes de escalar.
+
+*Referências de calibração (benchmark, não metas de imitação): Army, Mith, Bulking, Thunder; monitorar Insano. Ver seção 12.*
+
+**A estética-âncora: "performance silenciosa"** ◆
+
+As duas rodadas de pesquisa convergem numa mesma direção estética — *quiet fitness* / luxo silencioso / athleisure sartorial: corte estruturado, paleta sóbria, ausência de estridência maromba. É lida como premium e intencional, não como datada. Serve de âncora para a futura identidade visual.
+
 **Foco de categoria**
 
 O foco é ser referência em regatas masculinas — entendendo "regata" como categoria ampla (nadador, machão e outros modelos superiores masculinos). Nenhuma categoria nova entra no portfólio até a marca ser reconhecida em regatas. "Wear" no nome mantém a porta aberta para o futuro; a disciplina de não usá-la cedo é o que constrói a posição. Na fase de identidade, o logotipo deve nascer flexível para receber descritores futuros (linhas ou segmentos sob a mesma marca), sem comprometer o foco atual.
 
-**Posicionamento social — apoio à comunidade LGBTQIA+ e a outras minorias (em definição)**
+*Exceção sazonal já examinada: a camiseta de treino como linha de inverno (defesa de caixa no Sul) — ver seção 5.5 e seção 12.*
 
-A JAM WEAR deseja estar presente e demonstrar apoio à comunidade LGBTQIA+ e a outras minorias. A forma desse posicionamento ainda precisa ser aprofundada e validada antes de entrar na comunicação: se será mais neutro ou mais explícito; qual será a intensidade do apoio na comunicação; se a marca participará ou desenvolverá campanhas relacionadas ao tema; e como será incorporado de maneira coerente à identidade e às ações da marca. Até essa definição, o tema não entra na comunicação de forma improvisada (ver seção 12).
+**Posicionamento social — inclusão pela via implícita (proposta a validar)** ◆
+
+A JAM WEAR deseja estar presente e demonstrar apoio à comunidade LGBTQIA+ e a outras minorias. A direção proposta, sustentada pela análise de risco de posicionamento, é a da **inclusão implícita e coerente**, e não a do ativismo declarativo:
+
+- **O treino como equalizador.** A mensagem de fundo é que o esforço, a constância e o direito de vestir bem o próprio corpo não têm recorte — isso já está no DNA do "respeito ao corpo real". A inclusão aparece no *como* a marca mostra as pessoas, não num discurso sobre inclusão.
+- **Representatividade no elenco, não na bandeira.** Casting naturalmente diverso (idades, tons de pele, tipos de corpo), sem transformar identidade em tema de campanha nem em oportunismo de data comemorativa.
+- **Convicção dos fundadores é dos fundadores.** O apoio pessoal e político do casal é legítimo e permanece no campo pessoal; a marca não se converte em veículo partidário.
+- **Apoio material só quando houver base.** Ações concretas (doação, patrocínio, campanha dedicada) fazem sentido depois que a marca estiver estruturada — horizonte de 2–3 anos —, para que o gesto seja real e não performático.
+
+A intensidade final (mais discreta ou mais explícita) segue como decisão dos fundadores (ver seção 12). Até lá, o tema não entra na comunicação de forma improvisada.
 
 ---
 
@@ -110,12 +137,14 @@ A modelagem é **a prova física do posicionamento**. Ela não deve ser apresent
 
 - Ombros valorizados e peito com presença.
 - Cintura com liberdade — a peça não marca o que não deve marcar.
-- Cava controlada.
+- Cava controlada — é ela que tira a regata do estigma "maromba" e a torna urbana.
 - Caimento firme e encorpado, com estrutura no corpo.
 - Barra levemente arredondada e comprimento um pouco alongado, sem exagero.
 - Conforto real de treino com visual urbano.
 
 A ambição de produto: **reconhecer uma JAM WEAR pelo caimento antes de ler a etiqueta.**
+
+**Batizar a modelagem é uma necessidade competitiva** ◆ — a pesquisa mostra que o discurso "valoriza seu shape" já é lugar-comum em categorias vizinhas. Dar um **nome próprio** ao caimento (e tangibilizá-lo concretamente: arquitetura de cava, corte reto nos flancos, comprimento) é o que separa a modelagem da JAM do clichê. A batização entra junto com a identidade visual (ver seção 12).
 
 ### 5.2. Tecidos — o material certo para cada peça
 
@@ -123,19 +152,34 @@ A qualidade dos tecidos é um pilar do produto e da percepção da marca. A regr
 
 O que a JAM WEAR promete — e cumpre — é a **escolha adequada do material para cada peça**, considerando conforto, durabilidade, desempenho, toque e caimento. A comunicação valoriza o critério da escolha, nunca uma composição universal.
 
-Contexto de produto: o primeiro lote foi produzido em 100% algodão e a composição está em reavaliação junto ao fornecedor (Brusque/SC), incluindo possíveis misturas com elastano. A decisão será informada pela experiência de uso dos fundadores e pela pesquisa com os primeiros clientes (5.3) — exatamente o critério por peça que a marca promete.
+**Direção técnica de tecido (proposta de pesquisa, a fechar com o fornecedor)** ◆
+
+A pesquisa têxtil aponta uma direção e um trade-off que os fundadores decidem com o fornecedor de Brusque e o teste de uso:
+
+- **Eixo recomendado:** algodão penteado premium **96–97% + 3–4% elastano**, gramatura estruturada **180–200 g/m²**, sanforizado — caimento encorpado, toque nobre e conforto híbrido treino–cidade.
+- **Rejeitados com consenso:** tri-blend/viscose (incha, perde estrutura, pilling crônico) e o **100% algodão** como padrão do uso híbrido (satura de suor, pesa molhado, deforma cavas e gola, encolhe) — o que valida repensar a composição do 1º lote.
+- **Ponto em aberto — poliéster** ⚠️: melhora secagem e estabilidade, mas retém odor ao longo da vida da peça e ancora pilling — ambos corroem a percepção premium. A recomendação pende contra o poliéster no eixo principal; a decisão final depende do *wear test* (a secagem incomoda de fato no clima de Floripa?).
+- **Terceira via a avaliar** ⚠️: poliamida + elastano (a rota do concorrente premium de referência) — sintético anti-odor, secagem rápida, toque gelado.
+
+Contexto de produto: o primeiro lote foi produzido em 100% algodão e a composição está em reavaliação junto ao fornecedor (Brusque/SC). A decisão será informada pela experiência de uso dos fundadores e pela pesquisa com os primeiros clientes (5.3) — exatamente o critério por peça que a marca promete.
 
 ### 5.3. Coerência entre discurso e entrega
 
 Tudo o que a marca afirma precisa ser comprovado pela experiência de vestir. Os instrumentos que sustentam essa coerência — tabela de medidas própria, política de troca, depoimentos de clientes com corpos diferentes entre si — são ativos de marca a construir e manter (ver seção 12).
 
-A primeira prova já está em construção: uma pesquisa pós-compra com os clientes do primeiro lote, cobrindo experiência de compra no site, caimento durante o treino, comportamento do tecido após a lavagem, conforto, estilo de estampa preferido, percepção de preço e chance de recomendação (0–10). Os resultados alimentam as decisões de modelagem, tecido, preço e comunicação — dados no lugar de opinião.
+A primeira prova já está em construção: uma pesquisa pós-compra com os clientes do primeiro lote, cobrindo experiência de compra no site, caimento durante o treino, comportamento do tecido após a lavagem, conforto, estilo de estampa preferido, percepção de preço e chance de recomendação (0–10). Os resultados alimentam as decisões de modelagem, tecido, preço e comunicação — dados no lugar de opinião. **É essa pesquisa que resolve o trade-off do poliéster (5.2) e confirma a faixa de preço (seção 12).**
 
 ### 5.4. Estampas — regras de produção
 
 - Toda estampa carrega significado coerente com a marca — nunca é apenas "uma arte bonita" (seção 2).
 - **Licença comercial de impressão é obrigatória**: estampas nascem de criação própria, de designer com cessão de direitos ou de banco de imagens com licença de impressão verificada. Imagens geradas por IA ou de bancos sem termos comerciais claros para reprodução em produto não entram em peça.
 - Uma mesma estampa deve ser explorada em variações (costas em formato grande, assinatura frontal reduzida, versão só tipográfica) antes de se investir em uma arte nova — repertório antes de volume.
+
+### 5.5. Origem e sazonalidade
+
+**Feito em Santa Catarina — um ativo a comunicar** ◆. A produção no polo têxtil catarinense é sinal de rigor e qualidade e sustenta o preço premium acessível. É um ativo ainda subexplorado, que reforça a promessa de produto sem depender de discurso.
+
+**Camiseta de treino como linha de inverno** ◆. A pesquisa confirma o vale de vendas no inverno do Sul (jun–ago) e aponta a camiseta de treino como **defesa de caixa sazonal** do e-commerce — não como expansão de marca. Enquadrada como "linha inverno de performance", coerente com a modelagem e a qualidade da marca, ela deixa de ser uma quebra do foco em regatas e passa a ser sustentação do fluxo de caixa. A confirmação de escopo do próximo lote segue com os fundadores (ver seção 12).
 
 ---
 
@@ -158,13 +202,15 @@ A JAM WEAR é construída para **quem já treina**. O centro do público — que
 
 ### Retrato do centro
 
-**O homem em construção** — 28–38 anos, urbano, rotina intensa. Treina de 3 a 5 vezes por semana há mais de um ano; o corpo mostra o trabalho, seja porque segue evoluindo, seja porque mantém o que conquistou. Sua frustração: regata que marca a cintura, cava exagerada, tecido que denuncia em vez de valorizar — ou peça bonita que não serve para treinar. O que o converte: ver a peça vestindo bem um corpo como o dele e perceber a qualidade no toque e no caimento. O que o fideliza: a peça cumprir no treino e receber elogio fora dele.
+**O homem em construção** — 28–38 anos, urbano, rotina intensa. Treina de 3 a 5 vezes por semana há mais de um ano; o corpo mostra o trabalho, seja porque segue evoluindo, seja porque mantém o que conquistou. Sua frustração: regata que marca a cintura, cava exagerada, tecido que denuncia em vez de valorizar — ou peça bonita que não serve para treinar. No vocabulário do próprio público: "comprar GG só para caber os ombros", "apertada no braço e sobrando na barriga". O que o converte: ver a peça vestindo bem um corpo como o dele e perceber a qualidade no toque e no caimento. O que o fideliza: a peça cumprir no treino e receber elogio fora dele.
 
 ### Círculos secundários — desmembrados do centro, sem perder o foco
 
 Com recursos concentrados neste primeiro momento, a comunicação ativa mira o centro. Os públicos secundários derivam dele e são alcançados por extensão — sem criar frentes de comunicação dedicadas antes de a marca estar estruturada.
 
 **Círculo 2 — o que treina sério, mas ainda evita a regata.** Treina com constância, tem resultado, mas não usa regata por insegurança com braços, ombros ou barriga. As marcas de academia o ignoram ou o constrangem. A JAM WEAR fala com ele sem apontar problema: mostra corpos como o dele vestindo bem, com dignidade. Quem vence uma insegurança com a marca não a troca por preço.
+
+> **◆ Refinamento de pesquisa a avaliar:** os dados sugerem que esse Círculo 2 — o homem comum, adulto, que treina mas ainda se sente inseguro — **não é um satélite, é a maior fatia do mercado.** O "rato de academia" de corpo pronto é minoria estatística. Isso recomenda **elevar o Círculo 2 de público secundário a foco comercial primário** (mantendo o centro estratégico que define o produto). É a mudança de leitura mais relevante desta rodada e deve ser validada com os fundadores antes de reorientar a comunicação.
 
 **Círculo 3 — o uso além do treino.** Homens que chegam à marca pelo conforto e pelo estilo para os momentos de calor e lazer — praia, parque, churrasco, passeio — sem relação direta com o treino. São bem-vindos e reforçam a presença urbana da marca, mas não pautam o produto nem a comunicação.
 
@@ -187,6 +233,8 @@ O papel da marca é acompanhar esse processo com peças que oferecem:
 
 Na prática, isso proíbe na comunicação da JAM WEAR: promessas de transformação física, "antes e depois" de corpo, cobrança de resultado ("sem desculpas", "no pain no gain") e qualquer discurso que atribua à peça o mérito que pertence ao cliente.
 
+*Nota de conformidade:* além de coerente com os valores, essa disciplina protege a marca juridicamente — "antes e depois" e promessas de resultado expõem anunciante e influenciadores a risco publicitário (CONAR). A honestidade é, também, blindagem.
+
 ---
 
 ## 8. Personalidade e voz
@@ -199,21 +247,26 @@ Com os contrapesos que definem o equilíbrio da marca: presença sem arrogância
 
 A JAM WEAR nunca deve parecer: vulgar, barata, adolescente, básica sem graça, maromba demais, genérica de academia, country literal, rural, fria ou elitista.
 
-**Em uma imagem:** a JAM WEAR é aquele amigo que treina sério e se veste bem — te puxa para cima, não te intimida.
+**Em uma imagem:** a JAM WEAR é aquele amigo que treina sério e se veste bem — te puxa para cima, não te intimida. A persona verbal é a do **"parceiro de treino veterano"**: quem já passou pelo processo, fala com respeito e sem cobrança.
 
 ### Tom de voz
 
 Comunicação curta, emocional e direta. Frases de impacto, propósito de forma leve, sem textos longos. Próxima e elegante. E, acima de tudo, honesta: **toda frase da marca precisa passar no princípio da seção 2 — nenhuma promessa que a peça não entrega.**
+
+**Princípio de escrita — substantivo concreto, não adjetivo emocional** ◆. Ao falar com o homem inseguro (Círculo 2), a regra é **não nomear a insegurança no texto**: abolir "autoestima", "insegurança", "amor-próprio", "vergonha". A insegurança é resolvida na *modelagem*, não na legenda. A copy fala de coisas concretas — "corte reto", "cava fechada", "gramatura", "caimento no ombro" —, e deixa o benefício emocional acontecer sem ser anunciado. Nomear o problema constrange; resolver o problema converte.
 
 | A JAM WEAR fala assim | A JAM WEAR nunca fala assim |
 |----------------------|------------------------------|
 | "Você" — direto, um homem de cada vez. | "Fala, monstros!" — bordões de academia. |
 | Reconhece o mérito: "o corpo que você está construindo". | Promete resultado: "fique gigante", "transforme seu corpo". |
 | Mostra o caimento e deixa o corpo do cliente ser o dele. | "Antes e depois" de físico. |
+| Fala do concreto: cava, corte, gramatura, caimento. | Nomeia a insegurança: "acabe com a vergonha do braço". |
 | Elogia o processo e a constância. | Cobra: "sem desculpas", "no pain no gain". |
 | Fala de saúde, bem-estar e qualidade de vida — a estética é parte, não o todo. | Trata a estética como único motivo para treinar. |
 | Português direto e atual. | Anglicismo fitness desnecessário. |
 | Curto. Uma ideia por frase. | Legenda-textão explicando a marca. |
+
+*Referências de tom (uso interno):* marcas de vestuário masculino que comunicam sem estridência e com transparência radical — **Ten Thousand** (fit não colante, discurso "sem baboseira"), **Asket** (transparência de produto), **Dove Men+Care** (masculinidade sem cobrança) — são as âncoras verbais mais próximas do que a JAM quer soar.
 
 ### Repertório de frases da marca
 
@@ -248,11 +301,13 @@ Toda peça de comunicação deve saber em que degrau está:
 - Postura: "Vista presença." / "Treine com postura."
 - Honestidade: "A peça não cria o corpo. Ela acompanha o seu."
 
-**Nível 3 — Provas:** detalhes da modelagem própria (cava, caimento, barra, comprimento) · a peça vestindo corpos diferentes · qualidade e critério de escolha dos tecidos · depoimentos · tabela de medidas · política de troca.
+**Nível 3 — Provas:** detalhes da modelagem própria (cava, caimento, barra, comprimento) · a peça vestindo corpos diferentes · qualidade e critério de escolha dos tecidos · origem em SC · depoimentos · tabela de medidas · política de troca.
 
 ### Como demonstrar a modelagem — não apenas declará-la
 
 A JAM WEAR não afirma que tem boa modelagem: demonstra, nas peças, nas imagens e na comunicação. A modelagem aparece em corpos reais e diferentes — de tamanhos, idades, alturas e características distintas — para que o público compreenda como cada tamanho, corte e caimento se comporta e encontre o mais adequado para si.
+
+Essa demonstração é a via prática da inclusão implícita da seção 4: a diversidade aparece no elenco e no caimento, não num discurso sobre diversidade. E segue o princípio de linguagem da seção 8 — a comunicação visual mostra o corte, não aponta o problema do corpo.
 
 | A comunicação visual faz | A comunicação visual nunca faz |
 |--------------------------|--------------------------------|
@@ -262,6 +317,8 @@ A JAM WEAR não afirma que tem boa modelagem: demonstra, nas peças, nas imagens
 | Usa comparativos de caimento entre peças. | Cria competição, comparação ou exclusão entre pessoas. |
 
 Essa comunicação visual será conduzida com muito cuidado, para evitar ruídos, interpretações equivocadas ou a sensação de que a marca atende apenas a um padrão corporal específico. O objetivo é sempre ajudar o consumidor a compreender o produto e encontrar o tamanho e o caimento mais adequados.
+
+*Direção de linguagem visual:* "neutralidade corporal" (mostrar o corpo com naturalidade e dignidade) funciona melhor com esse público do que "positividade corporal" declarada — que, para o homem que treina, pode soar terapêutica ou invalidar o esforço.
 
 ### Prioridades
 
@@ -281,6 +338,12 @@ O que ainda precisa ser definido é o **peso** dessa história na construção d
 
 **Caminho 2 — Pointers como história de bastidor.** O posicionamento se concentra na modelagem e no produto; a história dos Pointers permanece como conteúdo institucional, memória de criação e narrativa complementar — presente, mas fora do centro. Ganho: identidade visual livre para nascer do conceito de modelagem e do universo do treino urbano. Custo: abre-se mão de um símbolo com carga afetiva real — e a marca precisará construir sua história central por outro caminho.
 
+**O que a pesquisa acrescenta a essa decisão** ◆
+
+- **O risco de usar um cão como símbolo é gerenciável — há precedente.** O Caminho 1 é viável sem cair no "pet/country": marcas de vestuário masculino já usam a raça Pointer como emblema premium (referência de mercado: **Rodd & Gunn**, que usa justamente o English Pointer). Não é território proibido; é território que exige execução disciplinada.
+- **Guarda-corpos gráficos, se o Caminho 1 for escolhido:** símbolo **abstrato/estilizado e monocromático** (silhueta ou emblema geométrico, na linha de um emblema automotivo, não ilustração realista de cachorro); estética "stealth"/atlética; explorar também um **monograma J+W** como rota alternativa ou complementar ao animal; **evitar** o registro caça/pet (cena de caça, marrom-fígado, textura rústica). A história do afeto permanece como camada de significado, não como literalidade visual.
+- **⚠️ Conflito a resolver — paleta:** a recomendação de pesquisa é **evitar o marrom** (que puxa a leitura para caça/rústico), enquanto o Guia de Visão de Marca listava "marrom liver" (a cor típica do Pointer). Essa contradição precisa ser decidida na definição da identidade visual — assumir o marrom como elo afetivo com o Pointer *ou* trocá-lo por uma paleta "performance silenciosa" (neutros sóbrios). Sinalizado aqui para não ser resolvido por inércia.
+
 Essa definição precisa ser fechada **antes do início da identidade visual**, porque determina o papel do símbolo no logotipo e nas aplicações — e qual história ocupará o centro da narrativa da marca (seção 2).
 
 ---
@@ -295,13 +358,15 @@ Essa definição precisa ser fechada **antes do início da identidade visual**, 
 
 A cada seis meses, análise dos dados de vendas, marketing e desempenho para confirmar o direcionamento ou redefinir a rota.
 
+*Contexto de mercado que sustenta a rota:* a categoria fitness cresce de forma estrutural no Brasil (penetração de academias ainda baixa frente a EUA e Reino Unido — muito espaço para crescer), e a concorrência premium está concentrada no Sul. Dominar Florianópolis e SC antes de escalar é, portanto, também uma escolha de onde a disputa é mais dura.
+
 **Identidade de canal:** o identificador **@usejamwear** está assegurado e padronizado em Instagram, Facebook, TikTok e YouTube (Threads a assegurar) — um único endereço para o cliente encontrar a marca em qualquer canal. A regra de venda permanece: negociações podem começar no WhatsApp ou nas redes, mas **toda compra se conclui no site oficial**.
 
 **Rota complementar de crescimento:** parcerias com academias e profissionais de treino — divulgação cruzada, materiais no local, ponto de retirada. Sempre filtradas pela cultura da marca: apenas parceiros compatíveis com os valores (seção 3) e aprovados pelo filtro de decisão; margem maior nunca justifica parceiro desalinhado.
 
 **Guarda-corpos:**
 
-- Não expandir categoria antes de ser reconhecida em regatas.
+- Não expandir categoria antes de ser reconhecida em regatas. *(A camiseta de inverno da seção 5.5 é a exceção examinada e enquadrada — defesa de caixa, não expansão de marca.)*
 - Não competir por preço: o valor se defende pela modelagem e pela qualidade — condição especial pontual, nunca desconto como hábito.
 - Não diluir a comunicação tentando falar com todos os homens — nem abrir frentes de público antes de a marca estar estruturada.
 - Não prometer o que a peça não entrega — a honestidade é inegociável.
@@ -331,15 +396,17 @@ A cada seis meses, análise dos dados de vendas, marketing e desempenho para con
 
 ## 12. Definições em aberto
 
-Pontos que ainda dependem de decisão ou informação para fechar esta plataforma:
+Pontos que ainda dependem de decisão ou informação para fechar esta plataforma. Os itens marcados com ◆ receberam uma direção de pesquisa nesta versão e aguardam validação; os marcados com ⚠️ seguem dependendo de decisão dos fundadores ou de dado primário.
 
-1. **Peso dos Pointers na marca** (seção 10) — decisão necessária antes da identidade visual, pois define também a história central da narrativa.
-2. **Posicionamento social** (seção 4) — forma, intensidade e coerência do apoio à comunidade LGBTQIA+ e a outras minorias: neutro ou explícito, presença em campanhas e incorporação à identidade.
-3. **Recortes comerciais** — faixa de preço (o que "premium acessível" significa em reais) e capacidade de produção por lote. *Praça e canal já definidos: Florianópolis, com vendas no site oficial jam-wear.com.*
-4. **Concorrentes diretos** — lista de 3 a 5 marcas para a análise do Diagnóstico Estratégico. Referências já citadas em reunião como ponto de partida: Crown, Thunder, Red Nose, Alphacore e Beagle — a lista formal segue pendente de validação.
-5. **Provas em construção** — a pesquisa pós-compra com os clientes do primeiro lote está em campo (5.3); tabela de medidas própria, política de troca formalizada e depoimentos seguem a construir.
-6. **Nome próprio para a modelagem** — avaliar batizar o conceito de modelagem da marca (a definir junto com a identidade).
-7. **Escopo do próximo lote de produção** — em reunião foi citada a intenção de produzir três modelos: regata, machão e **camiseta**. O direcionamento mais recente dos fundadores define foco em regatas (machão incluído) e este documento estabelece a regra de nenhuma categoria nova até a marca ser reconhecida em regatas — e camiseta é categoria nova. Confirmar com Jener: a camiseta permanece no plano? Se sim, decidir conscientemente se será uma quebra de regra planejada ou uma repriorização.
+1. **Peso dos Pointers na marca** ⚠️ (seção 10) — decisão necessária antes da identidade visual, pois define também a história central da narrativa. A pesquisa confirmou que o Caminho 1 é viável (precedente de mercado) e definiu guarda-corpos gráficos; falta a decisão dos fundadores e a resolução do conflito de paleta (marrom liver × neutros sóbrios).
+2. **Posicionamento social** ◆ (seção 4) — direção proposta: **inclusão implícita** (treino como equalizador, casting diverso, política dos fundadores no campo pessoal, apoio material só após a marca estruturada). Falta validar a intensidade final (mais discreta ou mais explícita).
+3. **Recortes comerciais — preço** ◆ — direção de pesquisa: **premium acessível na faixa de R$ 99 a R$ 119** (20–30% abaixo dos líderes). ⚠️ A confirmar contra o custo real de produção (fecha a margem?) e pela percepção de preço na pesquisa pós-compra. Capacidade de produção por lote segue a definir. *Praça e canal já definidos: Florianópolis, com vendas no site oficial jam-wear.com.*
+4. **Concorrentes diretos** ◆ — lista de calibração recomendada após triangulação de pesquisa: **Army, Mith, Bulking, Thunder** (monitorar Insano). Army é o incumbente premium a superar. Saem da lista de diretos as referências antes citadas de perfil surf/casual (Red Nose, Beagle) e a Crown, que compete por preço, não por premium. A lista formal segue para validação com os fundadores.
+5. **Provas em construção** ⚠️ — a pesquisa pós-compra com os clientes do primeiro lote está em campo (5.3); tabela de medidas própria, política de troca formalizada e depoimentos seguem a construir.
+6. **Nome próprio para a modelagem** ◆ — a pesquisa reforça como **necessidade competitiva** (evitar o clichê "valoriza seu shape"): batizar e tangibilizar o conceito de modelagem. A definir junto com a identidade visual.
+7. **Escopo do próximo lote de produção — camiseta** ◆ — antes tratada como possível quebra de foco, agora enquadrada pela pesquisa como **linha de inverno legítima e quase mandatória** para a defesa de caixa no Sul (5.5), desde que mantenha modelagem e qualidade. Confirmar com Jener a inclusão no próximo lote e o enquadramento como "linha inverno de performance", não como expansão de portfólio.
+8. **Direção de tecido** ⚠️ (seção 5.2) — eixo recomendado: algodão penteado 96–97% + 3–4% elastano, 180–200 g/m², sanforizado. Decisões pendentes com o fornecedor de Brusque e o *wear test*: poliéster sim/não e avaliação da terceira via (poliamida + elastano).
+9. **Elevar o Círculo 2 a foco comercial primário** ◆ (seção 6) — a pesquisa indica que o homem comum/inseguro é a maior fatia do mercado, não um satélite. Decisão de reorientação de comunicação a validar com os fundadores.
 
 ---
 
