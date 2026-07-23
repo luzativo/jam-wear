@@ -1,7 +1,7 @@
 # JAM WEAR — Documento de Marca
 
 **Plataforma estratégica de branding**
-Luzativo Estratégia e Comunicação · Versão 3.1 — Julho de 2026
+Luzativo Estratégia e Comunicação · Versão 3.2 — Julho de 2026
 
 *(Versão de trabalho em Google Docs com marcações por cores: verde = o que a marca é/faz · vermelho = o que não é/não faz · amarelo = destaque ou ponto em definição.)*
 
@@ -92,7 +92,7 @@ A cada seis meses, os dados de vendas, marketing e desempenho serão analisados 
 
 **Foco de categoria**
 
-O foco é ser referência em regatas masculinas — entendendo "regata" como categoria ampla (nadador, machão e outros modelos superiores masculinos). Nenhuma categoria nova entra no portfólio até a marca ser reconhecida em regatas. "Wear" no nome mantém a porta aberta para o futuro; a disciplina de não usá-la cedo é o que constrói a posição.
+O foco é ser referência em regatas masculinas — entendendo "regata" como categoria ampla (nadador, machão e outros modelos superiores masculinos). Nenhuma categoria nova entra no portfólio até a marca ser reconhecida em regatas. "Wear" no nome mantém a porta aberta para o futuro; a disciplina de não usá-la cedo é o que constrói a posição. Na fase de identidade, o logotipo deve nascer flexível para receber descritores futuros (linhas ou segmentos sob a mesma marca), sem comprometer o foco atual.
 
 **Posicionamento social — apoio à comunidade LGBTQIA+ e a outras minorias (em definição)**
 
@@ -123,9 +123,19 @@ A qualidade dos tecidos é um pilar do produto e da percepção da marca. A regr
 
 O que a JAM WEAR promete — e cumpre — é a **escolha adequada do material para cada peça**, considerando conforto, durabilidade, desempenho, toque e caimento. A comunicação valoriza o critério da escolha, nunca uma composição universal.
 
+Contexto de produto: o primeiro lote foi produzido em 100% algodão e a composição está em reavaliação junto ao fornecedor (Brusque/SC), incluindo possíveis misturas com elastano. A decisão será informada pela experiência de uso dos fundadores e pela pesquisa com os primeiros clientes (5.3) — exatamente o critério por peça que a marca promete.
+
 ### 5.3. Coerência entre discurso e entrega
 
 Tudo o que a marca afirma precisa ser comprovado pela experiência de vestir. Os instrumentos que sustentam essa coerência — tabela de medidas própria, política de troca, depoimentos de clientes com corpos diferentes entre si — são ativos de marca a construir e manter (ver seção 12).
+
+A primeira prova já está em construção: uma pesquisa pós-compra com os clientes do primeiro lote, cobrindo experiência de compra no site, caimento durante o treino, comportamento do tecido após a lavagem, conforto, estilo de estampa preferido, percepção de preço e chance de recomendação (0–10). Os resultados alimentam as decisões de modelagem, tecido, preço e comunicação — dados no lugar de opinião.
+
+### 5.4. Estampas — regras de produção
+
+- Toda estampa carrega significado coerente com a marca — nunca é apenas "uma arte bonita" (seção 2).
+- **Licença comercial de impressão é obrigatória**: estampas nascem de criação própria, de designer com cessão de direitos ou de banco de imagens com licença de impressão verificada. Imagens geradas por IA ou de bancos sem termos comerciais claros para reprodução em produto não entram em peça.
+- Uma mesma estampa deve ser explorada em variações (costas em formato grande, assinatura frontal reduzida, versão só tipográfica) antes de se investir em uma arte nova — repertório antes de volume.
 
 ---
 
@@ -277,13 +287,17 @@ Essa definição precisa ser fechada **antes do início da identidade visual**, 
 
 ## 11. Crescimento com disciplina
 
-**Fase atual:** primeiros lotes, prova de conceito da modelagem. A estratégia é dominar um território pequeno antes de expandir, com recursos concentrados:
+**Fase atual:** primeiros lotes, prova de conceito da modelagem. As primeiras vendas nasceram do círculo próximo dos fundadores — amigos, colegas de trabalho, time de vôlei —, por boca a boca, sempre com a compra concluída no site: a regra de canal único já está validada na prática. A estratégia é dominar um território pequeno antes de expandir, com recursos concentrados:
 
 1. **Florianópolis** — vendas no site oficial ([jam-wear.com](https://jam-wear.com/)), divulgação por redes sociais, boca a boca e círculo próximo de contatos.
 2. **Santa Catarina** — ampliação do atendimento e da comunicação para outras cidades do estado.
 3. **Região Sul** — expansão a partir de aproximadamente dois anos, condicionada ao avanço nas etapas anteriores.
 
 A cada seis meses, análise dos dados de vendas, marketing e desempenho para confirmar o direcionamento ou redefinir a rota.
+
+**Identidade de canal:** o identificador **@usejamwear** está assegurado e padronizado em Instagram, Facebook, TikTok e YouTube (Threads a assegurar) — um único endereço para o cliente encontrar a marca em qualquer canal. A regra de venda permanece: negociações podem começar no WhatsApp ou nas redes, mas **toda compra se conclui no site oficial**.
+
+**Rota complementar de crescimento:** parcerias com academias e profissionais de treino — divulgação cruzada, materiais no local, ponto de retirada. Sempre filtradas pela cultura da marca: apenas parceiros compatíveis com os valores (seção 3) e aprovados pelo filtro de decisão; margem maior nunca justifica parceiro desalinhado.
 
 **Guarda-corpos:**
 
@@ -322,9 +336,10 @@ Pontos que ainda dependem de decisão ou informação para fechar esta plataform
 1. **Peso dos Pointers na marca** (seção 10) — decisão necessária antes da identidade visual, pois define também a história central da narrativa.
 2. **Posicionamento social** (seção 4) — forma, intensidade e coerência do apoio à comunidade LGBTQIA+ e a outras minorias: neutro ou explícito, presença em campanhas e incorporação à identidade.
 3. **Recortes comerciais** — faixa de preço (o que "premium acessível" significa em reais) e capacidade de produção por lote. *Praça e canal já definidos: Florianópolis, com vendas no site oficial jam-wear.com.*
-4. **Concorrentes diretos** — lista de 3 a 5 marcas para a análise do Diagnóstico Estratégico.
-5. **Provas a construir** — tabela de medidas própria, política de troca e depoimentos de clientes com corpos diferentes.
+4. **Concorrentes diretos** — lista de 3 a 5 marcas para a análise do Diagnóstico Estratégico. Referências já citadas em reunião como ponto de partida: Crown, Thunder, Red Nose, Alphacore e Beagle — a lista formal segue pendente de validação.
+5. **Provas em construção** — a pesquisa pós-compra com os clientes do primeiro lote está em campo (5.3); tabela de medidas própria, política de troca formalizada e depoimentos seguem a construir.
 6. **Nome próprio para a modelagem** — avaliar batizar o conceito de modelagem da marca (a definir junto com a identidade).
+7. **Escopo do próximo lote de produção** — em reunião foi citada a intenção de produzir três modelos: regata, machão e **camiseta**. O direcionamento mais recente dos fundadores define foco em regatas (machão incluído) e este documento estabelece a regra de nenhuma categoria nova até a marca ser reconhecida em regatas — e camiseta é categoria nova. Confirmar com Jener: a camiseta permanece no plano? Se sim, decidir conscientemente se será uma quebra de regra planejada ou uma repriorização.
 
 ---
 
