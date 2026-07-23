@@ -5,7 +5,7 @@
 | Subpasta / arquivo | Conteúdo |
 |--------------------|----------|
 | [`branding-versoes-anteriores/`](branding-versoes-anteriores/) | Snapshots superados do Documento de Marca (v1 → v3.2) que valem consulta. As versões em Google Docs estão indexadas em [`../00-gestao/fontes-e-materiais-externos.md`](../00-gestao/fontes-e-materiais-externos.md). |
-| `jamwear-base-de-conhecimento-2026-07.md` | Compilação de conhecimento anterior (Luzativo), superada por este repositório. |
+| `jamwear-base-de-conhecimento-2026-07.md` | Compilação de conhecimento anterior (Luzativo), superada por este repositório. ⚠️ **USO INTERNO — não apresentar ao cliente:** contém dados internos (faixa de ticket, cláusulas contratuais, notas de risco de concorrentes). |
 
 ## Regra
 
