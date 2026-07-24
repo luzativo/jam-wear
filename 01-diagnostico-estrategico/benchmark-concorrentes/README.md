@@ -23,7 +23,7 @@ Extração de primeira mão via extensão do navegador do cliente (a rede desta 
 | **Army** | ✅ feita (2026-07-24) | [`army.md`](army.md) |
 | **Mith** | ⚠️ parcial (2026-07-24) — loja vazia, sem preço/tecido | [`mith.md`](mith.md) |
 | **Bulking** | ✅ feita (2026-07-24) | [`bulking.md`](bulking.md) |
-| Thunder God | 🚧 pendente | — |
+| **Thunder God** | ✅ feita (2026-07-24) | [`thunder-god.md`](thunder-god.md) |
 | Insano | 🚧 pendente | — |
 
 **Achado que já move a estratégia (Army):** a Army **não é**, no geral, "performance silenciosa" — é tech-performance-militar-motivacional com desconto agressivo e uma sub-linha "Minimalist". O território honesto/quiet está mais aberto do que o documento sugere, e o preço praticado da Army (com desconto constante) já é ~R$ 99–115. Recomenda-se **reescrever o "território competitivo" (§4) uma vez só, quando as 5 marcas estiverem levantadas.** Detalhes em `army.md`.
