@@ -21,4 +21,16 @@ Ao registrar, use uma linha por decisão: **data · decisão · racional · onde
 | 2026-07-23 | **Documento de Marca reestruturado para formato "quase final"** apresentando a marca diretamente, com marcação por cores/status. | Servir de material colaborativo com o cliente (Google Docs) sem despejar metodologia. | Documento de Marca (v3.0 → v4.0) |
 | 2026-07-23 | **Rodar pesquisa aprofundada** em dois motores (Perplexity + Gemini) com os mesmos prompts e **triangular** os resultados. | Reduzir viés de motor único; validar achados por dupla fonte. | [`03-pesquisas/`](../03-pesquisas/) |
 
+## Reunião de leitura do v4.0 — 2026-07-23 (com Jener e Jeans)
+
+Documento lido ponto a ponto com os fundadores. Considerado "bem encaminhado". Decisões que saíram:
+
+| Data | Decisão | Racional | Referência |
+|------|---------|----------|------------|
+| 2026-07-23 | **Foco masculino agora, mas com a porta aberta para uma futura linha feminina** (baixa probabilidade, não no curto prazo). A identidade deve nascer flexível para comportar esse público no futuro sem retrabalho. | Não fechar oportunidade de mercado; mas manter o recorte masculino como especialidade no início. | Doc §4 · reunião 2026-07-23 |
+| 2026-07-23 | **Posicionamento social — direção de inclusão implícita ACEITA** pelos fundadores ("está bom o material"). | Coerente com o "quiet"/sem ativismo declarativo; possível amarrar a coleções pontuais. Falta só a intensidade. | Doc §4 · reunião |
+| 2026-07-23 | **Círculo 2 contemplado junto ao centro já na primeira comunicação.** | Os dados indicam ser a maior fatia; o centro segue definindo o produto. | Doc §6 · reunião |
+| 2026-07-23 | **Pointer encaminhado para o Caminho 1** (símbolo central) — "bateu um pouquinho o martelo". A confirmar no sábado com referências visuais. | História verdadeira, símbolo proprietário; precedentes de mercado (ex.: Original Penguin, que Jener apontou ter postura de pointer). | Doc §10 · reunião |
+| 2026-07-23 | **Próximos passos processuais:** documento fica com o cliente para anotações; reunião de **referências visuais no sábado (10h)**; briefing de direção visual respondido após o sábado; produção da identidade começa na segunda; ~15 dias até aprovação. | Cruzar preferências visuais dos fundadores com o público antes de produzir. | reunião |
+
 > **Nota:** os achados de pesquisa incorporados ao Documento de Marca v4.0 (preço R$ 99–119, concorrentes Army/Mith/Bulking/Thunder, direção de tecido, camiseta de inverno, selo SC, Pointer de-riscado, inclusão implícita, Círculo 2) entraram como **◆ propostas a validar** — por isso estão em [`pendencias-e-validacoes.md`](pendencias-e-validacoes.md), e migrarão para cá quando confirmados com o cliente.

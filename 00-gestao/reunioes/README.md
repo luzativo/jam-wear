@@ -11,6 +11,7 @@ Registros, roteiros e transcrições das reuniões com Jener e Jeans. São **fon
 | Material | Onde | Status |
 |----------|------|--------|
 | Roteiro da Reunião 1 (jun/2026) | Google Drive (DOCX/PDF) — ver índice de fontes | ✅ no Drive |
-| Transcrições de 2 reuniões | Compartilhadas em conversa com a Luzativo; **ainda não depositadas** aqui | ⚠️ **lacuna** |
+| **Leitura do Documento de Marca v4.0 (2026-07-23)** | [`reuniao-2026-07-23-transcricao-leitura-v4.0.md`](reuniao-2026-07-23-transcricao-leitura-v4.0.md) — cabeçalho depositado; corpo verbatim em finalização | 🚧 corpo verbatim a completar |
+| Transcrições das reuniões anteriores | Compartilhadas em conversa; **ainda não depositadas** | ⚠️ lacuna |
 
-> **Lacuna a preencher:** as transcrições das duas reuniões foram usadas para enriquecer o Documento de Marca, mas o texto bruto ainda não está arquivado nesta base. Depositar como `reuniao-AAAA-MM-DD-transcricao.md` para preservar a fonte primária. O conteúdo já sintetizado está refletido no Documento de Marca e no registro de decisões.
+> **Encaminhamentos da reunião 2026-07-23** já estão em [`../registro-de-decisoes.md`](../registro-de-decisoes.md) e [`../pendencias-e-validacoes.md`](../pendencias-e-validacoes.md). O corpo verbatim da transcrição está sendo depositado em partes no arquivo acima.
