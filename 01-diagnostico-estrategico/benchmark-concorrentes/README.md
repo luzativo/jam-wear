@@ -22,7 +22,7 @@ Extração de primeira mão via extensão do navegador do cliente (a rede desta 
 |-------|--------------------|---------|
 | **Army** | ✅ feita (2026-07-24) | [`army.md`](army.md) |
 | **Mith** | ⚠️ parcial (2026-07-24) — loja vazia, sem preço/tecido | [`mith.md`](mith.md) |
-| Bulking | 🚧 pendente | — |
+| **Bulking** | ✅ feita (2026-07-24) | [`bulking.md`](bulking.md) |
 | Thunder God | 🚧 pendente | — |
 | Insano | 🚧 pendente | — |
 
