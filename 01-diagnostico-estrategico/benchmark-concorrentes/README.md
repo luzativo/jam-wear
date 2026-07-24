@@ -14,9 +14,19 @@ Análise das marcas concorrentes diretas da JAM WEAR. Alimenta o item **#4** das
 
 Fora da lista de diretos (perfil surf/casual ou guerra de preço): Crown, Red Nose, Beagle, Alphacore.
 
-## Status
+## Status da validação primária
 
-🚧 **Validação primária em construção.** A leitura atual vem da pesquisa (Perplexity + Gemini). A validação de primeira mão (preço real, posicionamento, tecido, modelagem) está sendo feita pela **extensão do navegador do cliente** — a rede desta sessão bloqueia o acesso direto aos sites. Prompt de extração padronizado já entregue ao cliente.
+Extração de primeira mão via extensão do navegador do cliente (a rede desta sessão bloqueia o acesso direto).
+
+| Marca | Validação primária | Arquivo |
+|-------|--------------------|---------|
+| **Army** | ✅ feita (2026-07-24) | [`army.md`](army.md) |
+| Mith | 🚧 pendente | — |
+| Bulking | 🚧 pendente | — |
+| Thunder God | 🚧 pendente | — |
+| Insano | 🚧 pendente | — |
+
+**Achado que já move a estratégia (Army):** a Army **não é**, no geral, "performance silenciosa" — é tech-performance-militar-motivacional com desconto agressivo e uma sub-linha "Minimalist". O território honesto/quiet está mais aberto do que o documento sugere, e o preço praticado da Army (com desconto constante) já é ~R$ 99–115. Recomenda-se **reescrever o "território competitivo" (§4) uma vez só, quando as 5 marcas estiverem levantadas.** Detalhes em `army.md`.
 
 **Monitoramento:** as 5 marcas foram cadastradas no **mLabs** (Instagram + Facebook) para acompanhamento contínuo — os dados sociais complementam os dados de site.
 
